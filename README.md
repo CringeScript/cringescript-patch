@@ -46,7 +46,7 @@ Extract the zip, run `CringescriptPatch.exe`, done.
    - Path: `%LocalAppData%\Roblox\Versions\<newest folder>\`
 6. Accept the low-quality build prompt for max FPS
 7. **Fully close Roblox** (open Task Manager → end all Roblox processes)
-8. Launch Roblox — enjoy the boost
+8. Launch Roblox enjoy the boost
 
 ### To Undo
 
