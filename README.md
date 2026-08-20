@@ -113,7 +113,7 @@ For Nvidia settings, remove the Roblox profile manually in Nvidia Control Panel.
 git clone https://github.com/CringeScript/cringescript-patch.git
 cd cringescript-patch
 pip install pyinstaller
-pyinstaller --onefile --noconsole --name "CringescriptPatch" cringescript_patch.py
+pyinstaller --onefile --noconsole --name "CringescriptPatch" Cringescript_patch.py
 ```
 
 Your `.exe` will be in `dist/`.
