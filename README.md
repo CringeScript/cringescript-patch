@@ -122,7 +122,7 @@ Your `.exe` will be in `dist/`.
 
 ## 📜 License
 
-MIT License — see [LICENSE](LICENSE).
+MIT License — see [LICENSE.txt](LICENSE.txt).
 
 Bundles [Nvidia Profile Inspector](https://github.com/Orbmu2k/nvidiaProfileInspector) by **Orbmu2k**, also MIT licensed. *(Already included in the zip.)*
 
